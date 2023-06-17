@@ -1,6 +1,12 @@
 
 home git 
 =======
+<<<<<<< HEAD
 home at github is 100% git prevails over github
 ------17 june ---------
 home updated in git for pull merge conflict
+=======
+home at github is 100% git prevails over github 
+-------------------------------------17 june---------
+home updated in github
+>>>>>>> 77b8d21aa2aaae4ea8780122be3b80e31e418d65
